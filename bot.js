@@ -111,8 +111,6 @@ ${prefix}kick @user <reason> / طرد الشخص من السيرفر
 ${prefix}ban @user <reason> / حضر الشخص من السيرفر
 ${prefix}mutechannel / تقفيل الشات
 ${prefix}unmutechannel / فتح الشات
-${prefix}dc / مسح كل الرومات
-${prefix}dr / <مسح كل الرانكات <لازم تكون رانك البوت فوق كل الرانكات
 ${prefix}ct <name> / انشاء شات
 ${prefix}cv <name> / انشاء رووم فويس
 ${prefix}temp / لانشاء روم مؤقت
