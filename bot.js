@@ -60,7 +60,7 @@ client.on('ready', function(){
 client.on('message', message => {
 if (message.content.startsWith(prefix + 'help')) { /// This is The DMS Code Send The Help In DMS // Code By NotGucci
     let pages = [`**
-        ***__General orders__***
+        ***__الاوامر العامه__***
 **
 ${prefix}allbots/لعرض جميع البوتات الي بالسيرفر
 ${prefix}server/يعرض لك معلومات عن السيرفر
@@ -86,10 +86,11 @@ ${prefix}id/معلومات عنك
 ${prefix}avatar/صورتك او صورة الي تمنشنو
 ${prefix}embed/يكرر الي تقولو بشكل حلو
 ${prefix}emoji <any things>/لتحويل اي كلمه تقولها الي ايموجي
+N J C Community - Shop - Gaming  © 
 **
   `
 ,`
-        ***__Administrative Orders__***
+        ***__اوامر الادمنستريشون__***
 **
 ${prefix}move @user /  لسحب الشخص الى روومك
 ${prefix}obc / رسالة جماعية الى كل اعضاء السيرفر
@@ -118,14 +119,16 @@ ${prefix}temp / لانشاء روم مؤقت
 ${prefix}delet <name> / مسح الشات او الرووم فويس
 ${prefix}make <number> / ينشا لك الوان مع كم الوان تبي
 ${prefix}color <number> / لختيار لون
+${prefix}voiceonline / لتفعيل روم الفويس اونلاين
+N J C Community- Shop - Gaming  © 
 **
    `,`
-        ***__Music orders__***
+          قريبا اضافه ال Music
 **
 قريبا 
-N J C Community - Shop  © 
+N J C Community - Shop - Gaming  © 
 **
-        ***__Games orders__***
+        ***__اوامر الالعاب__***
  **       
 ${prefix}rps / حجر ورقة مقص
 ${prefix}speed / اسرع كتابة
@@ -140,10 +143,8 @@ ${prefix}لعبة مريم / مريم
 ${prefix}فوائد ونصائح  / هل تعلم
 ${prefix}يعطيك عقابات قاسية / عقاب 
 =.=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.
-welcome يتم الترحيب فى روم باسم
-G.setwelcomer <text channel name> لاختيار روم للترحيب
-${prefix}voiceonline / لتفعيل روم الفويس اونلاين
-N J C Community - Shop  © 
+N J C Community - Shop - Gaming  © 
+جميع الحقوق محفوظه لدي مجتمع N J C
 **
    
 `]
