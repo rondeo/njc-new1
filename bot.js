@@ -123,7 +123,7 @@ ${prefix}voiceonline / لتفعيل روم الفويس اونلاين
 N J C Community- Shop - Gaming  © 
 **
    `,`
-          قريبا اضافه ال Music
+        ***__الاوامر الموسيقي__***
 **
 قريبا 
 N J C Community - Shop - Gaming  © 
